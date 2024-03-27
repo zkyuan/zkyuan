@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-  I hope you would know, This is a Java Boy ! But now he prefers Python !
+ 👋 I hope you would know, This is a Java Boy ! But now he prefers Python !
   
   
   
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 
-  一个喜欢四处漂泊的人，是不会有人愿意等他回家的......
+  👋一个喜欢四处漂泊的人，是不会有人愿意等他回家的......
 
 
 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 
 
-  E-mail:    2584278161@qq.com
+ 👋 E-mail:    2584278161@qq.com
 
 
 
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 
 
-  你无法找到两个一模一样的bug，如果有，那一定是在69年之后！
+ 👋 你无法找到两个一模一样的bug，如果有，那一定是在69年之后！
   
   
   
@@ -53,16 +53,16 @@ Here are some ideas to get you started:
 
 
 
-雪花算法告诉我们，随着岁月的流逝，我们终将会见到两朵一模一样的雪花！只是，时间漫长。
+👋雪花算法告诉我们，随着岁月的流逝，我们终将会见到两朵一模一样的雪花！只是，时间漫长。
 
 
-雪花算法告诉我们，只要你愿意相信，你就可以等到那个人出现在你的面前！即使，让人神伤。
+👋雪花算法告诉我们，只要你愿意相信，你就可以等到那个人出现在你的面前！即使，让人神伤。
 
 
-雪花算法告诉我们，不存在的轮回不必追求，若轮回存在亦无意义。 千百世的回眸，只存在相似的事，不存在相似的人。
+👋雪花算法告诉我们，不存在的轮回不必追求，若轮回存在亦无意义。 千百世的回眸，只存在相似的事，不存在相似的人。
 
 
-即使在未来，相似的花出现了，也不会再有相似的故事。 只因，时间漫长。
+👋即使在未来，相似的花出现了，也不会再有相似的故事。 只因，时间漫长。
 
 
 
