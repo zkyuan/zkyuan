@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-  I hope you would know: this is a java boy !
+  I hope you would know, This is a Java Boy ! But now he prefers Python !
   
   
   
